@@ -1,6 +1,7 @@
 ## Hello! Welcome to my Github profile
 
 💻👩‍💻 I'm Monica, a junior data analyst and data scientist.
+
 🎓 I recently finished the Data Analytics Bootcamp in Ironhack Barcelona. 
 
 📂Here you can find my Bootcamp projects and personal exercises. 
