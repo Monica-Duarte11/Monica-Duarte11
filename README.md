@@ -9,7 +9,7 @@ They are made using PYTHON as the primary programming language and integrating E
 
 * 🩺[Stress detection and Health analysis](https://github.com/Monica-Duarte11/Stress-health-analysis)
 * 🦈 [Shark attacks analysis](https://github.com/Monica-Duarte11/Shark-attacks-analysis)
-* 📊 [HR Analytics Power BI Dashboards](https://github.com/Monica-Duarte11/HR_analytics)
+* 📊 [HR Analytics - Power BI Dashboards](https://github.com/Monica-Duarte11/HR_analytics)
 
 🤝 I'm open to feedback, suggestion, and new project ideas! \
 If you have any for me, please contact me through my LinkedIn profile:
