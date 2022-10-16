@@ -7,7 +7,7 @@
 📂Here you can find my Bootcamp projects and personal exercises. \
 They are made using PYTHON as the primary programming language and integrating EDA, APIs, web scraping, and Machine Learning techniques.
 
-* 🩺[Stress and Health analysis](https://github.com/Monica-Duarte11/Stress-health-analysis)
+* 🩺[Stress detection and Health analysis](https://github.com/Monica-Duarte11/Stress-health-analysis)
 * 🦈 [Shark attacks analysis](https://github.com/Monica-Duarte11/Shark-attacks-analysis)
 * 📊 [HR Analytics Power BI Dashboards](https://github.com/Monica-Duarte11/HR_analytics)
 
