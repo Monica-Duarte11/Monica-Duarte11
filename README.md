@@ -13,7 +13,6 @@ They are made using PYTHON as the primary programming language and integrating E
 * 📊 [HR Analytics](https://github.com/Monica-Duarte11/HR_analytics): Power BI Dashboards for visualizing HR department information.
 
 🤝 I'm open to feedback, suggestion, and new project ideas! \
-If you have any for me, please contact me through my LinkedIn profile:
-https://www.linkedin.com/in/monica-duarte-link/   
+If you have any for me, please contact me through my [LinkedIn profile.](https://www.linkedin.com/in/monica-duarte-link/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monica-Duarte11)](https://github.com/anuraghazra/github-readme-stats)
