@@ -7,8 +7,8 @@
 📂Here you can find my Bootcamp projects and personal exercises. \
 They are made using PYTHON as the primary programming language and integrating EDA, APIs, web scraping, and Machine Learning techniques.
 
-* 🔍 [Skill Scanner](https://github.com/Monica-Duarte11/Final-Project-SkillScanner): Identify your Data skills and predict wich role fits your poffesional profile.
-* 🩺[Stress detection and Health analysis](https://github.com/Monica-Duarte11/Stress-health-analysis): Statistical aproximation to detect stress and activity peaks.
+* 🔍 [Skill Scanner](https://github.com/Monica-Duarte11/Final-Project-SkillScanner): Identify your Data skills and predict which role fits your professional profile.
+* 🩺[Stress detection and Health analysis](https://github.com/Monica-Duarte11/Stress-health-analysis): Statistical approximation to detect stress and activity peaks.
 * 🦈 [Shark attacks analysis](https://github.com/Monica-Duarte11/Shark-attacks-analysis): EDA analysis of global historical shark attacks data.
 * 📊 [HR Analytics](https://github.com/Monica-Duarte11/HR_analytics): Power BI Dashboards for visualizing HR department information.
 
